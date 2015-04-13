@@ -1,0 +1,33 @@
+locations
+id - fk
+longtitude
+latidude
+http://stackoverflow.com/questions/1196415/what-datatype-to-use-when-storing-latitude-and-longitude-data-in-sql-databases
+
+toilets
+id - auto generated (md5), pk 
+gender m/f/u/pwd
+privacy public/private 
+cost 0.00 - free, else paid
+cleanliness 1-10 (10 cleanest) (1pt: 1 - 4, 2pts: 5 - 7, 3pts: 8-10) <-priority
+rating 1-3 (3 best) <- no more rating, pins based on cleanliness
+
+utilities
+id (fk)
+toilet paper
+bidet
+flush
+urinal (still check if not female?)
+hand soap
+hand sanitizer
+faucet water
+hand dryer
+toiletriesvendo
+aircondition
+wifi
+
+practical
+sa UP, left wing lang may pangbabae etc.
+
+
+20150101
